@@ -1,0 +1,8 @@
+﻿################################################################################
+# Diese .gitignore-Datei wurde von Microsoft(R) Visual Studio automatisch erstellt.
+################################################################################
+
+/JSON2StringNppPlugin/obj
+/JSON2StringNppPlugin/bin
+/.vs
+/packages
